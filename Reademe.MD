@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2cdb225b-d3c8-4e2b-9551-e20b25a9199f/deploy-status)](https://app.netlify.com/sites/eduprov-student-application-form/deploys)
